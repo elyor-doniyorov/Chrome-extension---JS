@@ -2,7 +2,7 @@
 
 ![screenshot](images/screenshot.png)
 
-Here you get random cards to play the game.
+Here is the Chrome Extension to save the links you need and use later.
 
 ## Built With
 
@@ -12,11 +12,11 @@ Here you get random cards to play the game.
 
 ## Live Demo
 
-https://rawcdn.githack.com/elyor-doniyorov/Blackjack-game---JS/9f780f09b4d7489d53599a8999aec5521d3aa369/index.html
+https://rawcdn.githack.com/elyor-doniyorov/Chrome-extension---JS/26c63d9d31dc84900c42b0217074405f59f81a46/index.html
 
 ## Clone This Project
 ```
-- git clone `$ https://github.com/elyor-doniyorov/Blackjack-game---JS.git`
+- git clone `$ https://github.com/elyor-doniyorov/Chrome-extension---JS.git`
 - Open it with the live server or use live link above
 ```
 

@@ -23,6 +23,13 @@ https://rawcdn.githack.com/elyor-doniyorov/Chrome-extension---JS/e693cb2d537cf5a
 - git clone `$ https://github.com/elyor-doniyorov/Chrome-extension---JS.git`
 - Open it with the live server or use live link above
 ```
+## How to use this app:
+```
+- Open Chrome and search for "chrome://extensions"
+- Click on the "Download folder"
+- Switch on "Developer mode" on the right up corner
+
+```
 
 ## Authors
 

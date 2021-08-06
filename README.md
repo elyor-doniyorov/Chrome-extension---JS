@@ -1,8 +1,12 @@
 # Chrome-extension---JS
 
-![screenshot](images/screenshot.png)
+- This is How you open the Chrome extension:
+![screenshot](images/screenshot1.png)
+- This is How you save the current tab and any links or delete all:
+![screenshot](images/screenshot2.png)
 
-Here is the Chrome Extension to save the links you need and use later.
+
+Here is the Chrome Extension to save the current window tabs and your favourite links you need and use later.
 
 ## Built With
 
@@ -12,7 +16,7 @@ Here is the Chrome Extension to save the links you need and use later.
 
 ## Live Demo
 
-https://rawcdn.githack.com/elyor-doniyorov/Chrome-extension---JS/26c63d9d31dc84900c42b0217074405f59f81a46/index.html
+https://rawcdn.githack.com/elyor-doniyorov/Chrome-extension---JS/c97deab78214e5510fe8048bfb019a86c841b582/index.html
 
 ## Clone This Project
 ```

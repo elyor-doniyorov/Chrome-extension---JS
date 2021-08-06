@@ -4,11 +4,16 @@ let inputBtn = document.getElementById("input-btn");
 let ulEl = document.getElementById("ul-el")
 
 inputBtn.addEventListener('click', function() {
-    myLeads.push(inputEl.value)
+    myLeads.push(inputEl.value);
     console.log(myLeads);
 })
 
-// Log out the items in the myLeads array using a for loop 
+let listItems = "";
+
 for (let i = 0; i < myLeads.length; i++) {
-    console.log(myLeads[i])
+    listItems += "<li>" + myLeads[i] + "</li>";
+    console.log(listItems)
 }
+
+// render listItems using ulEl.innerHTML
+ulEl.innerHTML = listItems;

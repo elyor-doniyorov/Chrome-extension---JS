@@ -16,7 +16,7 @@ Here is the Chrome Extension to save the current window tabs and your favourite 
 
 ## Live Demo
 
-https://rawcdn.githack.com/elyor-doniyorov/Chrome-extension---JS/e693cb2d537cf5a33bbfc15da7b9cff49717362b/index.html
+[live link](https://rawcdn.githack.com/elyor-doniyorov/Chrome-extension---JS/e693cb2d537cf5a33bbfc15da7b9cff49717362b/index.html)
 
 ## Clone This Project
 ```
